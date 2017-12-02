@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hi there, this is Agnes!</title>
+	<title></title>
 </head>
 <body>
 
