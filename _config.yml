@@ -3,6 +3,6 @@ title: Agnes Lim
 description: Welcome to my personal website!
 
 
-p {
+title {
 font-family: 'Vollkorn SC', serif;
 }
