@@ -1,7 +1,6 @@
 
 <html>
 <head>
-	<title>Agnes Lim</title>
 	<style type="text/css"> 
 	p {
 	font-family: 'Vollkorn SC', serif;
