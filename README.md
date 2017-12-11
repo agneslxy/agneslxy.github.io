@@ -2,11 +2,8 @@
 <html>
 <head>
 	<title>Agnes Lim</title>
-
-h1 {
-	font-family: Times New Roman;
-}
-      <h1> Hi, this is Agnes!</h1>
+	
+   <h1> Hi, this is Agnes!</h1>
 
 
 	<p>A freshman currently pursuing an undergraduate degree in University of Illinois-Urbana Champaign. 
