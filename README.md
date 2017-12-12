@@ -17,7 +17,7 @@
 
 
    <h1> Hi, this is Agnes!</h1>
-   <img src="https://media1.tenor.com/images/9647423a8ea86b22c0d5c47f6166c058/tenor.gif?itemid=3520156">
+   <img src="https://media1.tenor.com/images/22d0aba3ac82ecb861ceb7bfd4d8f53b/tenor.gif?itemid=445689">
 
    <p>A freshman currently pursuing an undergraduate degree in University of Illinois-Urbana Champaign. 
 	    Majoring in actuarial science.Things I do while I am free: photography, playing guitar, sleep. 
