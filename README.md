@@ -12,8 +12,7 @@
 	}
 	h1 {
 	font-family: 'Vollkorn SC', serif;
-	}	
-	
+	}		
  </style>
 
 
