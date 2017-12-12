@@ -26,7 +26,7 @@
    <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjMxq6ZnIPYAhUM7BQKHR8jBRcQjRwIBw&url=https%3A%2F%2Ftenor.com%2Fview%2Fpikachu-pokemon-cute-cheeks-gif-4456893&psig=AOvVaw0wvswwh_pLuwXfrTJyg8lD&ust=1513124994204333">
 
    <p>A freshman currently pursuing an undergraduate degree in University of Illinois-Urbana Champaign. 
-	    Majoring in actuarial science. 
+	    Majoring in actuarial science.Things I do while I am free: photography, playing guitar, sleep. 
 	 </p>
 
 
