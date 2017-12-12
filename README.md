@@ -13,12 +13,7 @@
 	h1 {
 	font-family: 'Vollkorn SC', serif;
 	}	
-	body {
-		background: url(https://www.buzzfeed.com/mrloganrhoades/this-visual-journey-through-nature-will-leave-you-perfectly?utm_term=.ck3wXarJzm#2756611);
-		background-repeat: no-repeat;
-		background-size: cover;
-		
-		}
+	
  </style>
 
 
