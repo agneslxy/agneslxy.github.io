@@ -23,7 +23,7 @@
 
 
    <h1> Hi, this is Agnes!</h1>
-   <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjMxq6ZnIPYAhUM7BQKHR8jBRcQjRwIBw&url=https%3A%2F%2Ftenor.com%2Fview%2Fpikachu-pokemon-cute-cheeks-gif-4456893&psig=AOvVaw0wvswwh_pLuwXfrTJyg8lD&ust=1513124994204333">
+   <img src="https://media1.tenor.com/images/22d0aba3ac82ecb861ceb7bfd4d8f53b/tenor.gif?itemid=4456893">
 
    <p>A freshman currently pursuing an undergraduate degree in University of Illinois-Urbana Champaign. 
 	    Majoring in actuarial science.Things I do while I am free: photography, playing guitar, sleep. 
