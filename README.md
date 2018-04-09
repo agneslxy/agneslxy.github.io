@@ -20,7 +20,7 @@
    <img src="https://media1.tenor.com/images/22d0aba3ac82ecb861ceb7bfd4d8f53b/tenor.gif?itemid=445689">
 
    <p>A freshman currently pursuing an undergraduate degree in University of Illinois-Urbana Champaign. 
-	    Majoring in actuarial science. Things I do while I am free: photography, playing guitar, sleep. 
+	    Majoring in actuarial science. Things I do while I am free: photography, playing music. 
 	 </p>
 
 
